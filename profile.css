@@ -17,17 +17,18 @@ body{
 .pic{
     width:50%; 
     height:300px; 
-    float:left"
+    float:left
 }
 .pic>img{
      height: 300px ;
      width: 300px;
 }
 .intro{
-    width:50%; 
-    height:300px;
-    float:left;
+        width:50%; 
+        height:300px; 
+        float:left
 }
+
 .intro>p{
     text-align: center;
 
