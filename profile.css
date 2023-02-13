@@ -1,0 +1,34 @@
+h1{
+    text-align: center;
+}
+body{
+    background-color: gray;
+}
+#header{
+    text-align: center;
+}
+#Contact{
+    text-align: center;
+}
+.skills>img{
+    height:100px;
+     width:100px;
+}
+.pic{
+    width:50%; 
+    height:300px; 
+    float:left"
+}
+.pic>img{
+     height: 300px ;
+     width: 300px;
+}
+.intro{
+    width:50%; 
+    height:300px;
+    float:left;
+}
+.intro>p{
+    text-align: center;
+
+}
